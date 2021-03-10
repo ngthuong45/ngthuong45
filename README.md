@@ -21,7 +21,7 @@ Tôi tên là Hoài Thương và tôi là nam nhé! Tôi là một **Python Deve
 * Website giới thiệu xe moto Royal Enfield Việt Nam: http://royalenfieldsaigon.vn/
 * Một số website cho công ty hiện tại của tôi
 * Thư viện chuyển đổi chữ số sang số Việt Nam Number Toolkit:
-* 
+
 <!-- Your card -->
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ngthuong45&repo=vietnam-number&theme=dark)](https://github.com/ngthuong45/vietnam-number)
 
@@ -37,7 +37,7 @@ Tôi tên là Hoài Thương và tôi là nam nhé! Tôi là một **Python Deve
 NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github. -->
   </a>
 
-* Language: <img width="26px" src="https://simpleicons.org/icons/python.svg" /> <img width="26px" src="https://simpleicons.org/icons/php.svg" /> <img width="26px" src="https://simpleicons.org/icons/css3.svg" /> <img width="26px" src="https://simpleicons.org/icons/html5.svg" /> <img width="26px" src="https://simpleicons.org/icons/javascript.svg" />
+* Language: <img width="26px" src="https://simpleicons.org/icons/python.svg" />  <img width="26px" src="https://simpleicons.org/icons/php.svg" />  <img width="26px" src="https://simpleicons.org/icons/css3.svg" />  <img width="26px" src="https://simpleicons.org/icons/html5.svg" />  <img width="26px" src="https://simpleicons.org/icons/javascript.svg" />
 * Framework: <img width="26px" src="https://simpleicons.org/icons/django.svg" /> <img width="26px" src="https://simpleicons.org/icons/flask.svg" /> <img width="26px" src="https://simpleicons.org/icons/fastapi.svg" /> <img width="26px" src="https://simpleicons.org/icons/chatbot.svg" />
 * Database: <img width="26px" src="https://simpleicons.org/icons/mysql.svg" /> <img width="26px" src="https://simpleicons.org/icons/postgresql.svg" />
 * System: <img width="26px" src="https://simpleicons.org/icons/linux.svg" /> <img width="26px" src="https://simpleicons.org/icons/ubuntu.svg" /> <img width="26px" src="https://simpleicons.org/icons/centos.svg" /> <img width="26px" src="https://simpleicons.org/icons/git.svg" /> <img width="26px" src="https://simpleicons.org/icons/github.svg" />
