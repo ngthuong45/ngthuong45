@@ -21,8 +21,8 @@ Tôi tên là Hoài Thương và tôi là nam nhé! Tôi là một **Python Deve
 * Website giới thiệu xe moto Royal Enfield Việt Nam: http://royalenfieldsaigon.vn/
 * Một số website cho công ty hiện tại của tôi
 * Thư viện chuyển đổi chữ số sang số Việt Nam Number Toolkit:
-<br>
-<br>
+* 
+<!-- Your card -->
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ngthuong45&repo=vietnam-number&theme=dark)](https://github.com/ngthuong45/vietnam-number)
 
 
@@ -38,23 +38,11 @@ NOTE: Top languages does not indicate my skill level or something like that, it'
   </a>
 
 * Language: <img width="26px" src="https://simpleicons.org/icons/python.svg" /> <img width="26px" src="https://simpleicons.org/icons/php.svg" /> <img width="26px" src="https://simpleicons.org/icons/css3.svg" /> <img width="26px" src="https://simpleicons.org/icons/html5.svg" /> <img width="26px" src="https://simpleicons.org/icons/javascript.svg" />
-<br>
-  
 * Framework: <img width="26px" src="https://simpleicons.org/icons/django.svg" /> <img width="26px" src="https://simpleicons.org/icons/flask.svg" /> <img width="26px" src="https://simpleicons.org/icons/fastapi.svg" /> <img width="26px" src="https://simpleicons.org/icons/chatbot.svg" />
-<br>
-
 * Database: <img width="26px" src="https://simpleicons.org/icons/mysql.svg" /> <img width="26px" src="https://simpleicons.org/icons/postgresql.svg" />
-<br>
-  
 * System: <img width="26px" src="https://simpleicons.org/icons/linux.svg" /> <img width="26px" src="https://simpleicons.org/icons/ubuntu.svg" /> <img width="26px" src="https://simpleicons.org/icons/centos.svg" /> <img width="26px" src="https://simpleicons.org/icons/git.svg" /> <img width="26px" src="https://simpleicons.org/icons/github.svg" />
-<br>
-  
 * Server: <img width="26px" src="https://simpleicons.org/icons/apache.svg" /> <img width="26px" src="https://simpleicons.org/icons/nginx.svg" /> <img width="26px" src="https://simpleicons.org/icons/amazonaws.svg" /> <img width="26px" src="https://simpleicons.org/icons/googlecloud.svg" />
-<br>
-  
 * Tools: <img width="26px" src="https://simpleicons.org/icons/pycharm.svg" /> <img width="26px" src="https://simpleicons.org/icons/visualstudiocode.svg" /> <img width="26px" src="https://simpleicons.org/icons/filezilla.svg" /> <img width="26px" src="https://simpleicons.org/icons/sublimetext.svg" /> <img width="26px" src="https://simpleicons.org/icons/windowsterminal.svg" />
-<br>
-
 <!-- Credit -->
 #### Credit to 
 - [**GIPHY**](https://giphy.com/) for GIFs.
