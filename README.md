@@ -1,16 +1,62 @@
-### Hi there 👋
+<!-- Greeting -->
+# Xin chào! :wave::smiley:
 
-<!--
-**ngthuong45/ngthuong45** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!--Introduction -->
+Tôi tên là Hoài Thương và tôi là nam nhé! Tôi là một **Python Developer**. Tôi yêu thích lập trình. Nó giúp tôi giải quyết những vấn đề trong cuộc sống vả giúp đỡ được nhiều người hơn.
 
-Here are some ideas to get you started:
+<!-- Your badges -->
+![](https://komarev.com/ghpvc/?username=ngthuong45&style=flat)
+[![Gmail](https://img.shields.io/badge/-gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:ngthuong.lio@gmail.com)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<!-- Working GIF -->
+<img src="https://media.giphy.com/media/S6q7p6G70qH6YVupi3/giphy.gif" alt="dev_object" align="right" width="350" height="420" />
+
+### 💼  Công việc hiện tại: 
+* Tôi đang làm dự án trợ lý ảo dành cho ôtô
+* Tôi đang làm Web Developer cho một công ty
+* Tôi đang hML/Deep learning và cố gắng ứng dụng ML/Deep learning vào cuộc sống
+
+### 🌱 Dự án của tôi:
+* Website giới thiệu xe moto Royal Enfield Việt Nam: http://royalenfieldsaigon.vn/
+* Một số website cho công ty hiện tại của tôi
+* Thư viện chuyển đổi chữ số sang số Việt Nam Number Toolkit:
+<br>
+<br>
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ngthuong45&repo=vietnam-number&theme=dark)](https://github.com/ngthuong45/vietnam-number)
+
+
+ ### 🔭 Ngôn ngữ lập trình và công cụ hỗ trợ: <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+<!-- GitHub README Stats -->
+
+  <a href="https://github.com/ngthuong45?tab=repositories">
+    <img width="500" height="auto" align="right" alt="ngthuong45's github stats" 
+         src="https://github-readme-stats.vercel.app/api?username=ngthuong45&show_icons=true&theme=dark&count_private=true" />
+   <!-- <img width="30%" height="auto" align="right" alt="ngthuong45's github stats" 
+         src="https://github-readme-stats.vercel.app/api/top-langs/?username=joykishansharma&layout=dark" />
+NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github. -->
+  </a>
+
+* Language: <img width="26px" src="https://simpleicons.org/icons/python.svg" /> <img width="26px" src="https://simpleicons.org/icons/php.svg" /> <img width="26px" src="https://simpleicons.org/icons/css3.svg" /> <img width="26px" src="https://simpleicons.org/icons/html5.svg" /> <img width="26px" src="https://simpleicons.org/icons/javascript.svg" />
+<br>
+  
+* Framework: <img width="26px" src="https://simpleicons.org/icons/django.svg" /> <img width="26px" src="https://simpleicons.org/icons/flask.svg" /> <img width="26px" src="https://simpleicons.org/icons/fastapi.svg" /> <img width="26px" src="https://simpleicons.org/icons/chatbot.svg" />
+<br>
+
+* Database: <img width="26px" src="https://simpleicons.org/icons/mysql.svg" /> <img width="26px" src="https://simpleicons.org/icons/postgresql.svg" />
+<br>
+  
+* System: <img width="26px" src="https://simpleicons.org/icons/linux.svg" /> <img width="26px" src="https://simpleicons.org/icons/ubuntu.svg" /> <img width="26px" src="https://simpleicons.org/icons/centos.svg" /> <img width="26px" src="https://simpleicons.org/icons/git.svg" /> <img width="26px" src="https://simpleicons.org/icons/github.svg" />
+<br>
+  
+* Server: <img width="26px" src="https://simpleicons.org/icons/apache.svg" /> <img width="26px" src="https://simpleicons.org/icons/nginx.svg" /> <img width="26px" src="https://simpleicons.org/icons/amazonaws.svg" /> <img width="26px" src="https://simpleicons.org/icons/googlecloud.svg" />
+<br>
+  
+* Tools: <img width="26px" src="https://simpleicons.org/icons/pycharm.svg" /> <img width="26px" src="https://simpleicons.org/icons/visualstudiocode.svg" /> <img width="26px" src="https://simpleicons.org/icons/filezilla.svg" /> <img width="26px" src="https://simpleicons.org/icons/sublimetext.svg" /> <img width="26px" src="https://simpleicons.org/icons/windowsterminal.svg" />
+<br>
+
+<!-- Credit -->
+#### Credit to 
+- [**GIPHY**](https://giphy.com/) for GIFs.
+
+<h4 align="center"> Thanks for Visiting!:innocent:</h4>
