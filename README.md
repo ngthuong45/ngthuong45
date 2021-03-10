@@ -15,7 +15,7 @@ Tôi tên là Hoài Thương và tôi là nam nhé! Tôi là một **Python Deve
 ### 💼  Công việc hiện tại: 
 * Tôi đang làm dự án trợ lý ảo dành cho ôtô
 * Tôi đang làm Web Developer cho một công ty
-* Tôi đang hML/Deep learning và cố gắng ứng dụng ML/Deep learning vào cuộc sống
+* Tôi đang tiếp tục học ML/Deep learning và cố gắng ứng dụng ML/Deep learning vào cuộc sống
 
 ### 🌱 Dự án của tôi:
 * Website giới thiệu xe moto Royal Enfield Việt Nam: http://royalenfieldsaigon.vn/
