@@ -2,7 +2,7 @@
 # Xin chào! :wave::smiley:
 
 <!--Introduction -->
-Tôi tên là Hoài Thương và tôi là nam nhé! Tôi là một **Python Developer**. Tôi yêu thích lập trình. Nó giúp tôi giải quyết những vấn đề trong cuộc sống và giúp đỡ được nhiều người hơn.
+Tôi tên là Nguyễn Hoài Thương. Tôi là một **Python Developer**. Tôi yêu thích lập trình vì nó giúp tôi giải quyết những vấn đề trong cuộc sống và có thể giúp đỡ được nhiều người hơn.
 
 <!-- Your badges -->
 ![](https://komarev.com/ghpvc/?username=ngthuong45&style=flat)
@@ -13,11 +13,12 @@ Tôi tên là Hoài Thương và tôi là nam nhé! Tôi là một **Python Deve
 <img src="https://media.giphy.com/media/S6q7p6G70qH6YVupi3/giphy.gif" alt="dev_object" align="right" width="350" height="420" />
 
 ### 💼  Công việc hiện tại: 
-* Tôi đang làm dự án trợ lý ảo dành cho ôtô: [xem dự án](https://ngthuonglio.wordpress.com)
+* Tôi đang làm dự án trợ lý ảo dành cho ôtô: [Xem dự án](https://ngthuonglio.wordpress.com)
 * Tôi đang làm Web Developer cho một công ty
 * Tôi đang tiếp tục học thêm kiến thức về ML/Deep learning và cố gắng ứng dụng nó vào cuộc sống
 
 ### 🌱 Dự án của tôi:
+* Trợ lý ảo cá nhân hỗ trợ Tiếng Việt: [Xem demo](https://ngthuonglio.wordpress.com/features/)
 * Website giới thiệu xe moto Royal Enfield Việt Nam: http://royalenfieldsaigon.vn/
 * Một số website cho công ty hiện tại của tôi
 * Thư viện chuyển đổi chữ số sang số Việt Nam Number Toolkit:
