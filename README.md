@@ -18,7 +18,7 @@ Tôi tên là Nguyễn Hoài Thương. Tôi là một **Python Developer**. Tôi
 * Tôi đang tiếp tục học thêm kiến thức về ML/Deep learning và cố gắng ứng dụng nó vào cuộc sống
 
 ### 🌱 Dự án của tôi:
-* Trợ lý ảo cá nhân hỗ trợ Tiếng Việt: [Xem demo](https://ngthuonglio.wordpress.com/features/)
+* Trợ lý ảo cá nhân hỗ trợ Tiếng Việt: [Xem dự án](https://ngthuonglio.wordpress.com)
 * Website giới thiệu xe moto Royal Enfield Việt Nam: http://royalenfieldsaigon.vn/
 * Một số website cho công ty hiện tại của tôi
 * Thư viện chuyển đổi chữ số sang số Việt Nam Number Toolkit:
