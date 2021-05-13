@@ -7,7 +7,7 @@ Tôi tên là Nguyễn Hoài Thương. Tôi là một **Python Developer**. Tôi
 <!-- Your badges -->
 ![](https://komarev.com/ghpvc/?username=ngthuong45&style=flat)
 [![Gmail](https://img.shields.io/badge/-gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:ngthuong.lio@gmail.com)
-[![Linkedin](https://img.shields.io/badge/-Linkedin-blue)](www.linkedin.com/in/ngthuong45)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](www.linkedin.com/in/ngthuong45)
 
 
 <!-- Working GIF -->
