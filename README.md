@@ -2,7 +2,7 @@
 # Xin chào! :wave::smiley:
 
 <!--Introduction -->
-Tôi tên là Nguyễn Hoài Thương. Tôi là một **Python Developer**. Tôi yêu thích lập trình vì nó giúp tôi giải quyết những vấn đề trong cuộc sống và có thể giúp đỡ được nhiều người hơn.
+Tôi tên là Nguyễn Hoài Thương. Tôi là một **Python Developer**[Linkedin](https://www.linkedin.com/in/th%C6%B0%C6%A1ng-nguy%E1%BB%85n-ho%C3%A0i-a22077212/). Tôi yêu thích lập trình vì nó giúp tôi giải quyết những vấn đề trong cuộc sống và có thể giúp đỡ được nhiều người hơn.
 
 <!-- Your badges -->
 ![](https://komarev.com/ghpvc/?username=ngthuong45&style=flat)
